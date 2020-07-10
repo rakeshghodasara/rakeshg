@@ -1,5 +1,5 @@
 ---
-title: Best EC2 Instance for Hosting a Database
+title: Choose Right EC2 Instance for Hosting a Database
 date: 2020-07-10
 math: false
 diagram: false
