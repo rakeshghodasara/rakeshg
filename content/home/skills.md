@@ -8,7 +8,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 40  # Order that this section will appear.
 
-title = "Demos"
+title = "Skills"
 subtitle = ""
 
 [design]
@@ -27,12 +27,13 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
+*	Data strategy & architecture
+*	Big Data Engineering & Data Pipelines
+*	Cloud Adoption & Migration
+*	Data Lake Architecture
+*	Leading Diverse Teams
+* Data Governance & Security
+* Data analytics with Traditional & Big Data Technologies
+* Relational & Dimensional Modeling
 
-Welcome to the **personal demo** of Academic. Other demos available include:
-* This is a bullet
-- [**Project Demo** (Academic's actual site)](https://sourcethemes.com/academic/)
-
-**Over 100,000 [Amazing Websites](https://sourcethemes.com/academic/#expo) have Already Been Built with Academic**
-
-**[Join](https://sourcethemes.com/academic/docs/install/) the Most Empowered Hugo Community**
 
