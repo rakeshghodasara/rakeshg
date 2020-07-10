@@ -13,7 +13,7 @@ subtitle = ""
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
-  columns = "1"
+  columns = "2"
 
 
 [design.spacing]
@@ -29,7 +29,7 @@ subtitle = ""
 +++
 
 Welcome to the **personal demo** of Academic. Other demos available include:
-
+* This is a bullet
 - [**Project Demo** (Academic's actual site)](https://sourcethemes.com/academic/)
 
 **Over 100,000 [Amazing Websites](https://sourcethemes.com/academic/#expo) have Already Been Built with Academic**
