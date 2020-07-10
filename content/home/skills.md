@@ -14,7 +14,7 @@ subtitle = ""
 # 
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 
-interests:
+
 - Data Engineering & Big Data
 - Business Intelligence & Data Analytics
 - Cloud Technologies & Data Platforms
