@@ -15,28 +15,28 @@ subtitle = ""
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 
 
-- Data Engineering & Big Data
-- Business Intelligence & Data Analytics
-- Cloud Technologies & Data Platforms
+** Data Engineering & Big Data
+** Business Intelligence & Data Analytics
+** Cloud Technologies & Data Platforms
 
 
-[[feature]]
-  icon = "r-project"
-  icon_pack = "fab"
-  name = "R"
-  description = "90%"
+# [[feature]]
+#  icon = "r-project"
+#  icon_pack = "fab"
+#  name = "R"
+#  description = "90%"
   
-[[feature]]
-  icon = "chart-line"
-  icon_pack = "fas"
-  name = "Statistics"
-  description = "100%"  
+# [[feature]]
+#  icon = "chart-line"
+#  icon_pack = "fas"
+#  name = "Statistics"
+#  description = "100%"  
   
-[[feature]]
-  icon = "camera-retro"
-  icon_pack = "fas"
-  name = "Photography"
-  description = "10%"
+# [[feature]]
+#  icon = "camera-retro"
+#  icon_pack = "fas"
+#  name = "Photography"
+#  description = "10%"
 
 # Uncomment to use emoji icons.
 # [[feature]]
