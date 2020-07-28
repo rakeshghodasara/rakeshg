@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Data Engineering Leader
+role: Data Engineering, Data Architecture, Cloud & BigData
 
 # Organizations/Affiliations
 # organizations:
