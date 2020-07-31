@@ -34,13 +34,13 @@ Data volume is increasing exponentially. The traditional ETL tools cannot handle
 ### Velocity of Data : 
 The Streaming data coming from the sources like IOT, Telemetry, ClickStream is more real time. It is difficult to process it using traditional ETL tools designed for Batch processing.
 
-###Distributed Computing : 
+### Distributed Computing : 
 Hadoop floated the idea of taking the compute(program) to data instead of bringing data to the compute. The traditional ETL tools used the same concept of moving data to compute on scale-up architecture. This made it difficult to use the modern distributed scale out architecture
 
-###Relational to NoSQL Shift : 
+### Relational to NoSQL Shift : 
 The Sources and Destinations have become much more varied. This does suite the Traditional ETL Tools.
 
-###Emergence of Cloud & ServerLess : 
+### Emergence of Cloud & ServerLess : 
 Cloud has been a game changer. The early ETL tools were designed for persistent infrastructure. They are not best suited for the cloud ecosystem.
 
 The traditional ETL players are trying to adopt to newer ecosystem. How much they succeed only time will tell
